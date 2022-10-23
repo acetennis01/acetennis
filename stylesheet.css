@@ -1,0 +1,52 @@
+*{
+	background:#000223;
+	font-family: Verdana, sans-serif;
+	margin: 15px;
+}
+
+nav{
+	text-align: center;
+		color: lavender;
+
+	
+}
+
+section{
+	margin-left: 300px;
+}
+
+.mart2{
+	margin-top: 100px;
+	font-style: oblique;
+}
+
+h1{
+	font-size: 75px;
+	font-weight: bold;
+	color: lavender;
+}
+h2{
+	color: lavender;
+}
+
+
+li{
+	display: inline;
+	padding: 10px;
+	color: lavender;
+
+}
+
+article {
+	color: cyan;
+}
+
+.mart {
+	background-color: red;
+}
+
+subsection {
+	width: 500;
+	float: left;
+	margin: 25px;
+}
